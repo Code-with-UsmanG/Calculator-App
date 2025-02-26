@@ -5,9 +5,10 @@ It also includes a **settings menu** where users can toggle sound effects for bu
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_113142.jpg" width="45% height="45">
-  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_103904.jpg" width="45% height="45">
+  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_113142.jpg" width="35% height="35">
+  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_103904.jpg" width="35% height="35">
 </p>
+
 ## ✨ Features
 - Perform basic operations: **Addition, Subtraction, Multiplication, Division, Percentage (%)**
 - Interactive UI with **dark mode**
