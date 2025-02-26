@@ -5,8 +5,8 @@ It also includes a **settings menu** where users can toggle sound effects for bu
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_113142.jpg" width="35% height="35">
-  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_103904.jpg" width="35% height="35">
+  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_113142.jpg" width="35% height="25">
+  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_103904.jpg" width="35% height="25">
 </p>
 
 ## ✨ Features
@@ -22,10 +22,11 @@ git clone https://github.com/Code-with-UsmanG/Calculator_APP.git
 ```
 Then, build and run the app on an **emulator or physical device**.
 
-## 🛠️ Built With
+## 🛠️ Tools & Tech
 - **Kotlin** - Programming language
 - **Jetpack Compose** - Modern UI Toolkit
 - **Material 3** - UI Components and styling
+- **Android Studio** - Official IDE for Android Development
 
 ## 🤝 Contributing
 Contributions are **welcome**!  
