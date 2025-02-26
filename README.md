@@ -4,9 +4,7 @@ A simple yet elegant **calculator** app that performs basic arithmetic operation
 It also includes a **settings menu** where users can toggle sound effects for button presses.
 
 ## 📸 Screenshots
-<p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/0a157b4f-680c-42c5-9ec7-591ce0765162)" alt="Calculator App Screenshot" width="400"/>
-</p>
+![Calculator App Screenshot](![Image](https://github.com/user-attachments/assets/0a157b4f-680c-42c5-9ec7-591ce0765162))
 
 ## ✨ Features
 - Perform basic operations: **Addition, Subtraction, Multiplication, Division, Percentage (%)**
