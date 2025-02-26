@@ -4,8 +4,10 @@ A simple yet elegant **calculator** app that performs basic arithmetic operation
 It also includes a **settings menu** where users can toggle sound effects for button presses.
 
 ## 📸 Screenshots
-![Calculator App Screenshot](https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_103904.jpg)
-![Calculator APP Screenshot](https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_113142.jpg)
+<p align="center">
+  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_113142.jpg" width="45%">
+  <img src="https://github.com/Code-with-UsmanG/Calculator-App/blob/main/Screenshot_20250224_103904.jpg" width="45%">
+</p>
 ## ✨ Features
 - Perform basic operations: **Addition, Subtraction, Multiplication, Division, Percentage (%)**
 - Interactive UI with **dark mode**
