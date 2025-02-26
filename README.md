@@ -5,7 +5,7 @@ It also includes a **settings menu** where users can toggle sound effects for bu
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="image.png" alt="Calculator App Screenshot" width="400"/>
+  <img src="![Image](https://github.com/user-attachments/assets/0a157b4f-680c-42c5-9ec7-591ce0765162)" alt="Calculator App Screenshot" width="400"/>
 </p>
 
 ## ✨ Features
